@@ -25,7 +25,7 @@ Add your database connection string and API keys to the appsettings.json file to
 
 Run: Ensure the backend project is running before launching the Flutter app.
 
-2. Frontend (Flutter) Setup
+# 2. Frontend (Flutter) Setup
 Once the backend is configured and running, you can set up the Flutter application:
 
 Clone this repository.
